@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana, Geneva, sans-serif;
+	background-color:rgb(229, 249, 255);
+	text-align: center;
+}
+main{
+	width:50%;
+	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#headerTitle{
+	font-size: 60px;
+	text-align: center;
+	padding-bottom: 20px;
+}
+#contactInfo{
+	text-align: center;
+	background-color: rgb(188, 255, 245);
+	padding:10px 0px 10px 0px;
+}
+#glamourShot{
+	width: 250px;
+}
+#education{
+	padding:20px;
+	text-align: left;
+}
+#employmentHistory{
+	background-color: rgb(188, 255, 245);
+	padding:20px;
+	text-align: left;
+}
+#sectionArt{
+	height:150px;
+	float: right;
+	opacity:0.5;
+	filter: alpha(opacity=50);
+	margin-right: 50px;
+}
