@@ -9,29 +9,29 @@ main{
 	margin-left: auto;
 	margin-right: auto;
 }
-#headerTitle{
+.headerTitle{
 	font-size: 60px;
 	text-align: center;
 	padding-bottom: 20px;
 }
-#contactInfo{
+.contactInfo{
 	text-align: center;
 	background-color: rgb(188, 255, 245);
 	padding:10px 0px 10px 0px;
 }
-#glamourShot{
+.glamourShot{
 	width: 250px;
 }
-#education{
+.education{
 	padding:20px;
 	text-align: left;
 }
-#employmentHistory{
+.employmentHistory{
 	background-color: rgb(188, 255, 245);
 	padding:20px;
 	text-align: left;
 }
-#sectionArt{
+.sectionArt{
 	height:150px;
 	float: right;
 	opacity:0.5;
